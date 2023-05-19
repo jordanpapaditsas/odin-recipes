@@ -1,2 +1,2 @@
 # odin-recipes  
-Little project showcasing a Website with famous food recipes in Greece.
+Little project showcasing a website with some of the famous food recipes in Greece.
