@@ -2,13 +2,38 @@
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 15vh;
+  border: 5px solid #03adc7;
+  background-color: #17499e;
+}
+
+.navbar-menu {
+  display: flex;  
+}
+
+.navbar-menu li {
+  list-style: none;
+}
+
+.navbar-menu li a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  display: flex;
+  margin-right: 3rem;
+  color: white;
 }
 
 .header-title {
-  text-align: center;
   color: white;
-  padding: 20px;
-  background-color: rgb(42, 136, 165);
+  margin-left: 2rem;
 }
 
 .image {
@@ -17,7 +42,6 @@
   background-image: url(../../odin-recipes/images/greece-beach.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  position: relative;
 }
 
 .text-container {
@@ -29,13 +53,18 @@
 
 .top-choices {
   color: white;
-  margin: 50px;
-  font-size: 20px;
+  margin: 3rem;
+  font-size: 1.2rem;
 }
 
-ul li a {
-  font-size: 20px;
+.menu-option li a {
+  font-size: 1rem;
   color: white;
+}
+
+.menu-option li {
+  list-style: none;
+  margin: 1rem;
 }
 
 ul li a:hover {
@@ -44,11 +73,20 @@ ul li a:hover {
 }
 
 .footer {
-    position: absolute;
-    top: 80%;
-    left: 60%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 17px;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #03adc7;
+  background-color: #17499e;
+  height: 8vh;
+  color: white;
 }
 
+.upcoming {
+  margin-right: 1.5rem;
+}
+
+.copyrights {
+  margin-left: 1.5rem;
+}
