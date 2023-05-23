@@ -74,6 +74,7 @@ ul li a:hover {
 .footer {
   font-size: 1.5rem;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   border: 2px solid #03adc7;
@@ -83,9 +84,8 @@ ul li a:hover {
 }
 
 .upcoming {
-  display: block;
   color: white;
-  width: 50%;
+  margin-right: 1.5rem;
 }
 
 .copyrights {
