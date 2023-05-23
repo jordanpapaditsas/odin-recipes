@@ -46,19 +46,18 @@
 
 .text-container {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 30%;
+  left: 15%;
 }
 
 .top-choices {
   color: white;
   margin: 3rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 .menu-option li a {
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: white;
 }
 
@@ -73,7 +72,7 @@ ul li a:hover {
 }
 
 .footer {
-  font-size: 1rem;
+  font-size: 1.5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -84,9 +83,11 @@ ul li a:hover {
 }
 
 .upcoming {
-  margin-right: 1.5rem;
+  display: block;
+  color: white;
+  width: 50%;
 }
 
 .copyrights {
-  margin-left: 1.5rem;
+  margin-left: 0rem;
 }
