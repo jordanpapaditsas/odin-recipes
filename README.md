@@ -1,9 +1,11 @@
-# odin-recipes  
-Showcasing a landing page with food recipes.  
-
-<h4>Tech stack:<h4> 
-<ol>
-  <li> HTML5
-  <li> CSS3    
+# Odin-Recipes  
+## Description & Technologies
+A simple landing page project that providing food recipes,  made for The Odin Project Full-Stack Web Development Course.  
   
-* <strong>Live Preview</strong> ~ https://jordanpapaditsas.github.io/odin-recipes/
+Tech stack:  
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>  
+
+Live Preview: https://jordanpapaditsas.github.io/odin-recipes/
