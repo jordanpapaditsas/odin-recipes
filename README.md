@@ -6,4 +6,4 @@ Showcasing a landing page with food recipes.
   <li> HTML5
   <li> CSS3    
   
-    * <strong>Live Preview</strong> ~ https://jordanpapaditsas.github.io/odin-recipes/
+* <strong>Live Preview</strong> ~ https://jordanpapaditsas.github.io/odin-recipes/
