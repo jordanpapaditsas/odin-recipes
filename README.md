@@ -1,6 +1,6 @@
 # Odin-Recipes  
 ## Description & Technologies
-A simple landing page project that providing food recipes,  made for The Odin Project Full-Stack Web Development Course.  
+My first landing page project that providing food recipes,  made for The Odin Project Full-Stack Web Development Course.  
   
 Tech stack:  
 <ul>
